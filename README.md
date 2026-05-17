@@ -1,2 +1,2 @@
 # improving-the-development-workflow
-This repository aims to help new and existing developers or anyone interested to improve their development workflow.
+This repository aims to help new and existing developers or anyone interested to improve their development workflow, primarily using FOSS/OSS whenever possible. 
